@@ -1,0 +1,1 @@
+A template for a web application with the Brutos Application Framework.
